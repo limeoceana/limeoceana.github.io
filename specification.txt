@@ -1,0 +1,4 @@
+10 of the HTML tags I chose to use are: <a>, <img>, <div>, <header>, <footer>, <ul>, <li>, <u>, <br> and <p>, among others.
+5 of the CSS properties I chose to use are: text-align, font-size, background-color, padding, and margin, among others.
+I implemented JavaScript by setting up redirect functions that are triggered when users click on the three "sites" laid out in the header.
+I implemented Bootstrap by using its "row" and "col" classes to automatically divide my website's width into parts, used both in the header menu and the "panels" on the main website.
